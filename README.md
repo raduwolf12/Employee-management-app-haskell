@@ -7,7 +7,7 @@ Employee management app haskell
   cabal install split<br>
 
 ## Command for building exe file:<br>
-ghc --make Applicatie.exe
+ghc --make Applicatie.hs
 
 ## Screenshots <br>
 ![image](https://user-images.githubusercontent.com/45209751/119344389-48f90280-bca0-11eb-93e1-15b67f2c449e.png)
